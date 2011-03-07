@@ -1,0 +1,12 @@
+src/commonware
+src/django
+src/django-mozilla-product-details
+src/django-mptt
+src/django-nose
+src/django-sha2
+src/jingo
+src/jingo-minify
+src/nuggets
+src/schematic
+src/test-utils
+src/tower
