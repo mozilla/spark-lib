@@ -34,3 +34,6 @@
 [submodule "src/django-mptt"]
 	path = src/django-mptt
 	url = git://github.com/django-mptt/django-mptt.git
+[submodule "src/django-mobility"]
+	path = src/django-mobility
+	url = git://github.com/ozten/django-mobility.git
