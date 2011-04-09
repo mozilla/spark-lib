@@ -1,0 +1,16 @@
+../odict/__init__.py
+../odict/bench.py
+../odict/pyodict.py
+../odict/tests.py
+../odict/__init__.pyc
+../odict/bench.pyc
+../odict/pyodict.pyc
+../odict/tests.pyc
+./
+dependency_links.txt
+namespace_packages.txt
+PKG-INFO
+requires.txt
+SOURCES.txt
+top_level.txt
+zip-safe
