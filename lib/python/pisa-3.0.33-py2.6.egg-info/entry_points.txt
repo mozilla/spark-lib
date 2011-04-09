@@ -1,0 +1,4 @@
+[console_scripts]
+pisa = sx.pisa3:command
+xhtml2pdf = sx.pisa3:command
+

@@ -1,0 +1,9 @@
+#!/Users/Sork/.virtualenvs/spark/bin/python
+# EASY-INSTALL-ENTRY-SCRIPT: 'pisa==3.0.33','console_scripts','pisa'
+__requires__ = 'pisa==3.0.33'
+import sys
+from pkg_resources import load_entry_point
+
+sys.exit(
+   load_entry_point('pisa==3.0.33', 'console_scripts', 'pisa')()
+)
